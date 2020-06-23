@@ -4,8 +4,8 @@ clear all
 close all
 
 %% Assuming input dir with folder per subject, outputdir
-inputdir = 'C:\M\HelpingHand\20200622ElkeMeijers\' 
-outputdir = 'C:\M\HelpingHand\20200622ElkeMeijers\' 
+inputdir = 'inputdir\'
+outputdir = 'outputdir\'
 
 %% Params
 V2microSiem = 10;           % Voltage to microSiemens, default is *10
